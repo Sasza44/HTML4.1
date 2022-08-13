@@ -1,0 +1,203 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgba(248, 221, 239, 0.856);
+}
+.picture1{
+    background-image: url('4picture1.jpg');
+    background-repeat: no-repeat;
+    background-size:contain;
+    width:250px;
+    height:120px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.picture2{
+    background-image: url('4picture2.jpg');
+    background-repeat: no-repeat;
+    background-size:contain;
+    position: relative;
+    width:200px;
+    height:45px;
+    margin-left: 0px;
+    margin-top:-20px;
+}
+header{
+    background-color:rgb(140, 9, 14);
+    color: rgb(244, 198, 100);
+    font-size: 10px;
+    font-weight: 800;
+    padding-top: 20px;
+    box-sizing: border-box;
+    text-transform:uppercase;
+    width:900px;
+    height:45px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:-150px;
+}
+#item_1{
+    position:relative;
+    width:100px;
+    margin-top: -33px;
+    margin-left: 200px;
+}
+#item_2{
+    position:relative;
+    width:100px;
+    margin-top: -11px;
+    margin-left: 300px;
+}
+#item_3{
+    position:relative;
+    width:100px;
+    margin-top: -11px;
+    margin-left: 400px;
+}
+#item_4{
+    position:relative;
+    width:150px;
+    margin-top: -11px;
+    margin-left: 500px;
+}
+#item_5{
+    position:relative;
+    width:100px;
+    margin-top: -11px;
+    margin-left: 650px;
+}
+#item_6{
+    position:relative;
+    width:100px;
+    margin-top: -11px;
+    margin-left: 720px;
+}
+.picture3{
+    background-image: url('4picture3.jpg');
+    background-repeat: no-repeat;
+    background-size:contain;
+    position: relative;
+    width:200px;
+    height:43px;
+    margin-left: 800px;
+    margin-top:-33px;
+}
+.picture4{
+    background-image: url('4picture4.jpg');
+    background-repeat: no-repeat;
+    background-size:contain;
+    position:relative;
+    width:900px;
+    height: 500px;
+    margin-left:auto;
+    margin-right: auto;
+}
+.picture5{
+    background-image: url('4picture5.jpg');
+    background-repeat: no-repeat;
+    background-size:contain;
+    position:relative;
+    width:900px;
+    height: 400px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: -233px;
+}
+#item_7{
+    text-transform:initial;
+    position: relative;
+    margin-top: 0px;
+    margin-left: 50px;
+}
+#item_8{
+    text-transform:initial;
+    position: relative;
+    margin-top: -22px;
+    margin-left: 250px;
+    width: 150px;
+}
+#item_9{
+    text-transform:initial;
+    position: relative;
+    margin-top: -22px;
+    margin-left: 450px;
+    width: 110px;
+}
+#item_10{
+    text-transform:none;
+    position: relative;
+    margin-top: -22px;
+    margin-left: 680px;
+    width: 110px;
+}
+p{
+    font-size: 10px;
+    color: black;
+    width: 180px;
+    line-height: 16px;
+}
+#bold_1{
+    font-weight: 900;
+    position:relative;
+    margin-top:0px;
+    margin-left: 50px;
+}
+#bold_2{
+    font-weight: 900;
+    position:relative;
+    margin-top:-60px;
+    margin-left: 250px;
+}
+#bold_3{
+    font-weight: 900;
+    position:relative;
+    margin-top:-58px;
+    margin-left: 450px;
+}
+#bold_4{
+    font-weight: 900;
+    position:absolute;
+    margin-top:-60px;
+    margin-left: 680px;
+}
+#normal_1{
+    font-weight: 400;
+    position:relative;
+    margin-top:50px;
+    margin-left:50px;
+}
+#normal_2{
+    font-weight: 400;
+    position:relative;
+    margin-top:-108px;
+    margin-left: 250px;
+}
+#normal_3{
+    font-weight: 400;
+    position:relative;
+    margin-top:-106px;
+    margin-left: 450px;
+}
+#normal_4{
+    font-weight: 400;
+    position:relative;
+    margin-top:-106px;
+    margin-left: 680px;
+}
+.button{
+    background-color: rgb(249, 204, 121);
+    color:black;
+    font-size: 18px;
+    font-weight: 800;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    position:absolute;
+    margin-top: -410px;
+    margin-left: 880px;
+    width:140px;
+    height: 20px;
+    border-radius: 5px;
+}
+.bottom{
+    margin-top: -178px;
+}
